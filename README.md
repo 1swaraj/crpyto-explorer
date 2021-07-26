@@ -1,8 +1,11 @@
 # CryptoExplorer
 
 As a developer and a crpytoenthusiast, one big problem that I faced was - switching back and forth between vscode and my crypto wallet.
+
 That's when I thought - why not create a VSCode extension for solving this painpoint.
-After all - what is more satisfying for a developer than writing bug-free code, ANS - Seeing his favourite currencies go #tothemoon.
+
+What is more satisfying for a developer than writing bug-free code ?
+ANSWER - Seeing his favourite currencies go #tothemoon.
 
 ![alt Elon laughs](assets/icon.jpg)
 
